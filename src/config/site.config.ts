@@ -189,6 +189,7 @@ export const siteConfig: SiteConfig = {
       { label: 'Skills', href: '#skills', icon: 'Code', enabled: true },
       { label: 'Education', href: '#education', icon: 'GraduationCap', enabled: true },
       { label: 'Portfolio', href: '/portfolio', icon: 'Folder', enabled: true },
+      { label: '3D Portfolio', href: '/3d', icon: 'Box', enabled: true },
       { label: 'Contact', href: '#contact', icon: 'Mail', enabled: true },
     ],
   },
