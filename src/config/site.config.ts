@@ -135,8 +135,8 @@ export const siteConfig: SiteConfig = {
   // ---------------------------------------------------------------------------
   meta: {
     titleTemplate: '{{name}} | {{title}}',
-    defaultDescription: 'Professional resume and portfolio website',
-    keywords: ['resume', 'portfolio', 'developer', 'software engineer', 'web developer'],
+    defaultDescription: 'Adan Mohamed — Full Stack Developer from Garowe, Puntland, Somalia. End-to-end problem solver building responsive frontends and robust backends.',
+    keywords: ['resume', 'portfolio', 'full stack developer', 'software engineer', 'web developer', 'Adan Mohamed'],
     siteUrl: 'https://your-domain.com',
     locale: 'en',
   },

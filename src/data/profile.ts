@@ -96,36 +96,33 @@ export const profile: Profile = {
   // -------------------------------------------------------------------------
   // BASIC INFO (Required)
   // -------------------------------------------------------------------------
-  name: 'Alex Johnson',
-  title: 'Senior Software Engineer',
+  name: 'Adan Mohamed',
+  title: 'Full Stack Developer',
   photo: '/images/profile.jpg', // Set to '' to hide photo
-  email: 'alex.johnson@example.com',
-  location: 'San Francisco, CA',
+  email: 'adan.mohamed@example.com',
+  location: 'Garowe, Puntland, Somalia',
 
   // -------------------------------------------------------------------------
   // CONTACT & SOCIAL (Optional - remove or set to undefined if not needed)
   // -------------------------------------------------------------------------
-  phone: '+1 (555) 123-4567',
-  website: 'https://alexjohnson.dev',
-  linkedin: 'https://linkedin.com/in/alexjohnson',
-  github: 'https://github.com/alexjohnson',
-  twitter: 'https://twitter.com/alexjohnson',
+  phone: 'GOLIS 0905296265',
+  github: 'https://github.com/ADN1SK',
 
   // -------------------------------------------------------------------------
   // PROFESSIONAL SUMMARY
   // Keep this concise: 2-4 sentences that capture who you are professionally
   // -------------------------------------------------------------------------
-  summary: `Results-driven software engineer with 8+ years of experience building scalable web applications. Passionate about clean code, performance optimization, and mentoring junior developers. Expert in React, TypeScript, and cloud architecture.`,
+  summary: `I'm a Full Stack Developer who thrives at the intersection of creativity and logic. From crafting responsive frontends to building robust backends, I turn ideas into seamless digital experiences. Passionate about clean code, scalable architectures, and learning the latest tech stacks. I don't just write code—I solve problems, optimize workflows, and make apps that people actually want to use. Always curious, always improving, always building the next thing.`,
 
   // -------------------------------------------------------------------------
   // KEY HIGHLIGHTS
   // 3-5 achievement statements with metrics when possible
   // -------------------------------------------------------------------------
   highlights: [
-    'Led development of platform serving 1M+ users',
-    'Reduced page load time by 60%',
-    'Managed team of 5 engineers',
-    'Speaker at 3 tech conferences',
+    'End-to-end problem solver — Full Stack DEV',
+    'Crafts responsive frontends & robust backends',
+    'Passionate about clean code & scalable architectures',
+    'Always curious, always improving, always building',
   ],
 };
 
